@@ -5,7 +5,7 @@ import java.util.List;
 // place your cursor over junit below and
 // click "Add 'Junit4' to classpath" then press OK to be able to run this test.
 import static org.junit.Assert.assertEquals;
-
+//testDemo
 public class DataTypesTest {
 
     @Test(timeout = 1000)
